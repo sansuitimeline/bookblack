@@ -35,7 +35,7 @@ dns:
     - tls://223.6.6.6:853
     - tls://120.53.53.53
     - tls://1.12.12.12
-proxies:
+-proxies:
   - {name: "🇭🇰 日用 专线 香港 [0.2]", server: 6c106cf4-cb0f-11f02.004837963.xyz, port: 14091, type: ss, cipher: chacha20-ietf-poly1305, password: lE9uL5fR3yR9, plugin: obfs, plugin-opts: {mode: http, host: 1e98fd7080.iqiyi.com}, udp: true, tfo: false}
   - {name: "🇸🇬 日用 专线 狮城 [0.2]", server: 6c106cf4-cb0f-11f02.004837963.xyz, port: 14092, type: ss, cipher: chacha20-ietf-poly1305, password: lE9uL5fR3yR9, plugin: obfs, plugin-opts: {mode: http, host: 1e98fd7080.iqiyi.com}, udp: true, tfo: false}
   - {name: "🇯🇵 日用 专线 日本 [0.2]", server: 6c106cf4-cb0f-11f03.004837963.xyz, port: 14093, type: ss, cipher: chacha20-ietf-poly1305, password: lE9uL5fR3yR9, plugin: obfs, plugin-opts: {mode: http, host: 1e98fd7080.iqiyi.com}, udp: true, tfo: false}
