@@ -37,7 +37,7 @@ dns:
     - tls://1.12.12.12
 proxies:
   - {name:Q41【vipnet888.com】, server: aexgzbgp01.114837322.xyz, port: 14101, type: ss, cipher: chacha20-ietf-poly1305, password: lE9uL5fR3yR9, plugin: obfs, plugin-opts: {mode: http, host: e9d9eccec4.iqiyi.com}, udp: true, tfo: false}
-  - {name: 🇭🇰 【邮箱：sansuiauxpm@gmail.com】, server: aexgzbgp01.114837322.xyz, port: 14101, type: ss, cipher: chacha20-ietf-poly1305, password: lE9uL5fR3yR9, plugin: obfs, plugin-opts: {mode: http, host: e9d9eccec4.iqiyi.com}, udp: true, tfo: false}
+  - {name: 🇭🇰【邮箱：sansuiauxpm@gmail.com】, server: aexgzbgp01.114837322.xyz, port: 14101, type: ss, cipher: chacha20-ietf-poly1305, password: lE9uL5fR3yR9, plugin: obfs, plugin-opts: {mode: http, host: e9d9eccec4.iqiyi.com}, udp: true, tfo: false}
   - {name: 🇭🇰 高级 专线 香港 02, server: aexgzbgp01.114837322.xyz, port: 14102, type: ss, cipher: chacha20-ietf-poly1305, password: lE9uL5fR3yR9, plugin: obfs, plugin-opts: {mode: http, host: e9d9eccec4.iqiyi.com}, udp: true, tfo: false}
   - {name: 🇭🇰 高级 专线 香港 03, server: aexgzbgp01.114837322.xyz, port: 14103, type: ss, cipher: chacha20-ietf-poly1305, password: lE9uL5fR3yR9, plugin: obfs, plugin-opts: {mode: http, host: e9d9eccec4.iqiyi.com}, udp: true, tfo: false}
   - {name: 🇭🇰 高级 专线 香港 04, server: aexgzbgp01.114837322.xyz, port: 14104, type: ss, cipher: chacha20-ietf-poly1305, password: lE9uL5fR3yR9, plugin: obfs, plugin-opts: {mode: http, host: e9d9eccec4.iqiyi.com}, udp: true, tfo: false}
@@ -131,7 +131,7 @@ proxy-groups:
       - TW
       - US
       - Q41【vipnet888.com】
-      - 🇭🇰 【邮箱：sansuiauxpm@gmail.com】
+      - 🇭🇰【邮箱：sansuiauxpm@gmail.com】
       - 🇭🇰 高级 专线 香港 02
       - 🇭🇰 高级 专线 香港 03
       - 🇭🇰 高级 专线 香港 04
